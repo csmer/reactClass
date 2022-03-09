@@ -1,0 +1,89 @@
+.App {
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.MovieDetails {
+    font-family: sans-serif;
+}
+
+.MovieTitle {
+    margin: 10px;
+    padding: 15px;
+    font-size: 36px;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+.MovieImage{
+    float: left
+}
+
+.MovieRating{
+    font-size: 30px;
+    color: rgb(47, 134, 255);
+}
+
+.MovieMisc{
+    background-color: rgba(68, 45, 45, 0.109);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+.MovieMiscCard{
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #8d1212;
+    padding: 6px;
+    margin-left: 5px;
+    border-radius: 50px;
+    color: #8d1212;
+}
+
+.MovieMiscCard2{
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #080404;
+    padding: 6px;
+    margin-left: 5px;
+    border-radius: 50px;
+    color: #080404;
+}
+
+.MovieContainer{
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+.MovieLike{
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #4CAF50;
+    padding: 6px;
+    margin-left: 5px;
+    border-radius: 50px;
+    transition-duration: 0.2s;
+}
+
+.MovieLike:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.MoviePlot{
+    padding-top: 25px;
+    font-size: 24px;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+.MovieActors{
+    padding: 5px;
+    font-size: 24px;
+    
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+
